@@ -16,11 +16,11 @@ Crie um arquivo `.env` na raiz com as variáveis usadas pelo projeto (exemplo ab
 **Exemplo de `.env`**
 
 ```env
-UPPERCASE_LETTERS=true
-LOWERCASE_LETTERS=true
+UPPERCASE_LETTERS=false
+LOWERCASE_LETTERS=false
 NUMBERS=true
 SPECIAL_CHARACTERS=true
-PASSWORD_LENGTH=8
+PASSWORD_LENGTH=12
 ```
 
 **Scripts**
